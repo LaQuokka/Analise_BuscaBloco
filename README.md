@@ -53,13 +53,13 @@ Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
 Os dados utilizados são referentes ao bloquinhos oficiais de São Paulo em 2024 podem ser visualizados no [Power BI do Busca Bloco](https://app.powerbi.com/view?r=eyJrIjoiMzVjZjEzNDEtOGNhOC00ZTU3LWJjZTUtYmExODQ4ZDhlNThhIiwidCI6IjA4NzllN2Q3LTQ4ZWQtNDE2My1hM2M5LWRjNDJhMTUwZDE0YyJ9). Caso queira ter acesso a base de dados, entre em contato com as responsáveis pela iniciativa por meio de seu [site](https://www.buscabloco.com.br/) ou de seu [Instagram](https://www.instagram.com/buscabloco?igsh=OG93ZW95dHk3cGVo).
 
 Basicamente, a base consiste em uma tabela de 464 linhas e 1q colunas com as seguintes características e variáveis:
-* **Nome do Bloco:** coluna com dados do tipo object que corresponde ao nome do bloquinho;
-* **Zona:**  coluna com dados do tipo object que corresponde a zona da cidade em que o cloquinho está localizado;
-* **Itinerário:**  coluna com dados do tipo object que corresponde ao itinerário do bloquinho;
-* **Estilo Musical:** coluna com dados do tipo object que corresponde ao estilo musical do bloquinho;
-* **Cidade:**  coluna com dados do tipo object que corresponde a cidade em que o bloquinho está localizado;
-* **Latitude:** coluna com dados do tipo object que corresponde a latitude do local em que o bloquinho irá começar;
-* **Longitude:** coluna com dados do tipo object que corresponde a longitude do local em que o bloquinho irá começar;
-* **Data:** coluna com dados do tipo datetime64[ns] que corresponde ao dia da semana em que o bloquinho irá ocorrer;
-* **Dia:** coluna com dados do tipo object que corresponde ao dia da semana em que o bloquinho irá ocorrer;
-* **Hora:** coluna com dados do tipo object que corresponde ao horário de início do bloquinho.
+* **Nome do Bloco:** coluna com dados do tipo ```object``` que corresponde ao nome do bloquinho;
+* **Zona:**  coluna com dados do tipo ```object``` que corresponde a zona da cidade em que o cloquinho está localizado;
+* **Itinerário:**  coluna com dados do tipo ```object``` que corresponde ao itinerário do bloquinho;
+* **Estilo Musical:** coluna com dados do tipo ```object``` que corresponde ao estilo musical do bloquinho;
+* **Cidade:**  coluna com dados do tipo ```object``` que corresponde a cidade em que o bloquinho está localizado;
+* **Latitude:** coluna com dados do tipo ```object``` que corresponde a latitude do local em que o bloquinho irá começar;
+* **Longitude:** coluna com dados do tipo ```object``` que corresponde a longitude do local em que o bloquinho irá começar;
+* **Data:** coluna com dados do tipo ```datetime64[ns]``` que corresponde ao dia da semana em que o bloquinho irá ocorrer;
+* **Dia:** coluna com dados do tipo ```object``` que corresponde ao dia da semana em que o bloquinho irá ocorrer;
+* **Hora:** coluna com dados do tipo ```object``` que corresponde ao horário de início do bloquinho.

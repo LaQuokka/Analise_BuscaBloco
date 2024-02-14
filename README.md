@@ -67,4 +67,4 @@ Basicamente, a base consiste em uma tabela de 464 linhas e 11 colunas com as seg
 ![Capa do BI](https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/52eb53f7-baef-4191-b45a-2d5f48768ffe)
 
 ## Resultados
-Os resultados das análises podem ser vistos no [perfil do Instagram do FEA.dev!](https://www.instagram.com/fea.dev/)
+As conclusões e os resultados das análises podem ser vistos no [perfil do Instagram do FEA.dev!](https://www.instagram.com/fea.dev/)

@@ -1,5 +1,9 @@
 ![Carnaval](https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/0f052cb0-78d9-4253-94a3-8a40904c0bdf)
 
+<div align="center">
+
+  **Análises:** <a href="https://github.com/LaQuokka">[![GitHub Badge](https://img.shields.io/badge/Cinthya_Beneducci-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LaQuokka)</a>
+
 # O Projeto 👩‍💻🎉
  Esse projeto consiste em uma ***análise de dados sobre bloquinhos de Carnaval na cidade de São Paulo em 2024 utilizando Python***. Os dados foram disponibilizadas ao FEA.dev pela equipe do Busca Bloco, de modo que, no total, foram analisados 464 bloquinhos.
 

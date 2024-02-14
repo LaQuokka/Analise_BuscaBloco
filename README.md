@@ -1,2 +1,4 @@
-# Analise_BuscaBloco
- Análise de dados de bloquinhos de carnaval na cidade de Sâo Paulo (SP) em 2024 disponibilizadas à FEA.dev pela equipe do BuscaBloco :)
+![Carnaval](https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/0f052cb0-78d9-4253-94a3-8a40904c0bdf)
+
+# O Projeto 👩‍💻
+ Esse projeto consistem em uma análise de dados de bloquinhos de Carnaval na cidade de Sâo Paulo em 2024 utilizando Python. Os dados foram disponibilizadas ao FEA.dev pela equipe do Busca Bloco, de modo que, no total, foram analisados 464 bloquinhos! 🎉

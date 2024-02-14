@@ -49,7 +49,7 @@ Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
 ```
 
 ## Dados
-Os dados utilizados são referentes aos bloquinhos oficiais de São Paulo em 2024 podem ser visualizados no [Power BI do Busca Bloco](https://app.powerbi.com/view?r=eyJrIjoiMzVjZjEzNDEtOGNhOC00ZTU3LWJjZTUtYmExODQ4ZDhlNThhIiwidCI6IjA4NzllN2Q3LTQ4ZWQtNDE2My1hM2M5LWRjNDJhMTUwZDE0YyJ9). Caso queira ter acesso a base de dados para a realização de projetos, entre em contato com as responsáveis pela iniciativa por meio de seu [site](https://www.buscabloco.com.br/) ou de seu [Instagram](https://www.instagram.com/buscabloco?igsh=OG93ZW95dHk3cGVo).
+Os dados utilizados são referentes aos bloquinhos oficiais de São Paulo em 2024 e podem ser visualizados no [Power BI do Busca Bloco](https://app.powerbi.com/view?r=eyJrIjoiMzVjZjEzNDEtOGNhOC00ZTU3LWJjZTUtYmExODQ4ZDhlNThhIiwidCI6IjA4NzllN2Q3LTQ4ZWQtNDE2My1hM2M5LWRjNDJhMTUwZDE0YyJ9). Caso queira ter acesso a base de dados para a realização de projetos, entre em contato com as responsáveis pela iniciativa por meio de seu [site](https://www.buscabloco.com.br/) ou de seu [Instagram](https://www.instagram.com/buscabloco?igsh=OG93ZW95dHk3cGVo).
 
 Basicamente, a base consiste em uma tabela de 464 linhas e 11 colunas com as seguintes características e variáveis:
 * **Nome do Bloco:** coluna com dados do tipo ```object``` que corresponde ao nome do bloquinho;

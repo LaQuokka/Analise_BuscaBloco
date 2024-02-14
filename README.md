@@ -43,9 +43,8 @@ from matplotlib.ticker import FuncFormatter
 import folium
 ```
 
-Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
+Caso falte alguma dependência na sua máquina, basta instalar com o comando pip, como pode ser visto no exemplo abaixo.
 ```bash
-# Ex:
   pip install folium
 ```
 

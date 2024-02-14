@@ -65,3 +65,6 @@ Basicamente, a base consiste em uma tabela de 464 linhas e 11 colunas com as seg
 
 [Clique aqui para visualizar o Power BI completo do Busca Bloco 👇](https://app.powerbi.com/view?r=eyJrIjoiMzVjZjEzNDEtOGNhOC00ZTU3LWJjZTUtYmExODQ4ZDhlNThhIiwidCI6IjA4NzllN2Q3LTQ4ZWQtNDE2My1hM2M5LWRjNDJhMTUwZDE0YyJ9)
 ![Capa do BI](https://github.com/LaQuokka/Analise_BuscaBloco/assets/122839919/52eb53f7-baef-4191-b45a-2d5f48768ffe)
+
+## Resultados
+Os resultados das análises podem ser vistos no [perfil do Instagram do FEA.dev!](https://www.instagram.com/fea.dev/)

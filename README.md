@@ -41,6 +41,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 from matplotlib.ticker import FuncFormatter
 import plotly.express as px
+import seaborn as sns
 import folium
 ```
 

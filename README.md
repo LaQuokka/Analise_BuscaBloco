@@ -40,6 +40,7 @@ __Visualização de dados:__
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 from matplotlib.ticker import FuncFormatter
+import plotly.express as px
 import folium
 ```
 
@@ -53,13 +54,13 @@ Os dados utilizados são referentes aos bloquinhos oficiais de São Paulo em 202
 
 Basicamente, a base consiste em uma tabela de 464 linhas e 11 colunas com as seguintes características e variáveis:
 * **Nome do Bloco:** coluna com dados do tipo ```object``` que corresponde ao nome do bloquinho;
-* **Zona:**  coluna com dados do tipo ```object``` que corresponde a zona da cidade em que o cloquinho está localizado;
+* **Zona:**  coluna com dados do tipo ```object``` que corresponde à zona da cidade de Sâo Paulo em que o cloquinho está localizado;
 * **Itinerário:**  coluna com dados do tipo ```object``` que corresponde ao itinerário do bloquinho;
-* **Estilo Musical:** coluna com dados do tipo ```object``` que corresponde ao estilo musical do bloquinho;
-* **Cidade:**  coluna com dados do tipo ```object``` que corresponde a cidade em que o bloquinho está localizado;
+* **Estilo Musical:** coluna com dados do tipo ```object``` que corresponde ao estilo musical predominante do bloquinho;
+* **Cidade:**  coluna com dados do tipo ```object``` que corresponde à cidade em que o bloquinho está localizado;
 * **Latitude:** coluna com dados do tipo ```object``` que corresponde a latitude do local em que o bloquinho irá começar;
 * **Longitude:** coluna com dados do tipo ```object``` que corresponde a longitude do local em que o bloquinho irá começar;
-* **Data:** coluna com dados do tipo ```datetime64[ns]``` que corresponde ao dia da semana em que o bloquinho irá ocorrer;
+* **Data:** coluna com dados do tipo ```datetime64[ns]``` que corresponde ao dia em que o bloquinho irá ocorrer;
 * **Dia:** coluna com dados do tipo ```object``` que corresponde ao dia da semana em que o bloquinho irá ocorrer;
 * **Hora:** coluna com dados do tipo ```object``` que corresponde ao horário de início do bloquinho.
 
